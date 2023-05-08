@@ -1,4 +1,5 @@
-app:
+app:https://assets.Coinmarket.com/api"
+
   log_level: "debug"
 
 client_urls:
